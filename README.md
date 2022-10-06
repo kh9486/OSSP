@@ -1,4 +1,3 @@
 # OSSP
 
-Hello World!
-Hi!
+fetch & merge
